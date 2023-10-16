@@ -12,5 +12,5 @@ This repository is structured with two main branches:
 3. Open your browser and go to https://movie-recommender-rnestiyo.streamlit.app to use the application.
 
 # Additional Information
-Data Sources: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-Technologies: **Python** (NumPy, Pandas, scikit-learn), **Natural Language Processing** (NLTK), **Git** (Version control), **Jupyter Notebook** (Data analysis and experimentation), **Kaggle API** (Data retrieval), **Streamlit** (Web app development and deployment)
+1. Data Sources: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+2. Technologies: **Python** (NumPy, Pandas, scikit-learn), **Natural Language Processing** (NLTK), **Git** (Version control), **Jupyter Notebook** (Data analysis and experimentation), **Kaggle API** (Data retrieval), **Streamlit** (Web app development and deployment)
