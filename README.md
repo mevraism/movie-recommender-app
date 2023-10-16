@@ -3,8 +3,8 @@ movie-recommender-app is an application designed to help users discover movies t
 
 # Repository Structure
 This repository is structured with two main branches:
-**jupyter-notebook**: Contains the Jupyter Notebook file where data analysis and modeling are performed.
-**master**: Contains the application files and source code.
+1. **jupyter-notebook**: Contains the Jupyter Notebook file where data analysis and modeling are performed.
+2. **master**: Contains the application files and source code.
 
 # Instructions
 1. Navigate to the **jupyter-notebook** branch and open **movie-recommender-system.ipynb** to explore the data analysis and model development in the Jupyter Notebook.
